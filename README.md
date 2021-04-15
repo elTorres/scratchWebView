@@ -1,1 +1,1 @@
-Simple Android App to load Scratch Web in a WebView in full screen
+Simple Android App to load Scratch Web in a full screen WebView 
